@@ -77,3 +77,9 @@ body {
     object-fit: cover;
     margin-bottom: 15px;
 }
+
+#mission {
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
